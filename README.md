@@ -1,15 +1,13 @@
-# Basic Sample Hardhat Project
+# Basic Sample React DApp Project
 
-This project demonstrates a basic Hardhat use case. It comes with a sample contract, a test for that contract, a sample script that deploys that contract, and an example of a task implementation, which simply lists the available accounts.
+This project demonstrates a basic dApp development with React, Ethers.js, Solidity, and Hardhat. I wanted an end to end guide to show me how to build full stack Ethereum apps using the most up to date resources, libraries, and tooling.
 
-Try running some of the following tasks:
-
-```shell
-npx hardhat accounts
-npx hardhat compile
-npx hardhat clean
-npx hardhat test
-npx hardhat node
-node scripts/sample-script.js
-npx hardhat help
+# How to install
+```
+- git clone https://github.com/SmartCoding51/hardhat-react-dapp.git
+- copy .env.local to .env
+- install dependencies
+npm install
+cd frontend
+npm install
 ```
